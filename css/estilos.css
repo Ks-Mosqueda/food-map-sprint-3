@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.fondo-negro {
+background: black ;
+height:100vh;
+}
+
+.logo {
+  margin-top: 45vh;
+  color: white;
+  font-size: 12vh;
+}
+
+.center {
+  text-align: center;
+}
+
+.logo1 {
+  color: white;
+  font-size: 12vh;
+}
+
+.line {
+  border-bottom: 3px solid white;
+}
