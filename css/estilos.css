@@ -6,21 +6,21 @@ body {
 
 .fondo-negro {
 background: black ;
-height:100vh;
+height:125vh;
 }
 
 .logo {
   margin-top: 45vh;
   color: white;
-  font-size: 12vh;
+  font-size: 8vh;
 }
 
 .center {
   text-align: center;
+  color: #F7B617;
 }
 
 .logo1 {
-  color: white;
   font-size: 12vh;
 }
 
@@ -29,5 +29,21 @@ height:100vh;
 }
 
 .map {
-  height: 30vh;
+  margin-top: 5vh;
+}
+
+.search {
+  margin-left: 12px;
+  margin-top: 3px;
+}
+
+.search1 {
+  background: #2B2B2B;
+  border-radius: 5px;
+  width: 50px;
+}
+
+.padding0 {
+  padding: 0;
+
 }
