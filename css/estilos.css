@@ -27,3 +27,7 @@ height:100vh;
 .line {
   border-bottom: 3px solid white;
 }
+
+.map {
+  height: 30vh;
+}
