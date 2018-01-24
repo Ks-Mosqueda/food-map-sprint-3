@@ -2,15 +2,15 @@ body {
   margin: 0;
   padding: 0;
 }
-
-
 .fondo-negro {
-background: black ;
-height:125vh;
+background-image: url(../assets/images/food.png);
+background-repeat: no-repeat;
+background-size: 180%;
+height: 150vh;
+background-position: center;
 }
 
 .logo {
-  margin-top: 45vh;
   color: white;
   font-size: 8vh;
 }
@@ -21,7 +21,8 @@ height:125vh;
 }
 
 .logo1 {
-  font-size: 12vh;
+  font-size: 8vh;
+  font-family: 'Berkshire Swash', cursive;
 }
 
 .line {
@@ -43,7 +44,10 @@ height:125vh;
   width: 50px;
 }
 
-.padding0 {
-  padding: 0;
+.show {
+  display: block;
+}
 
+.hide {
+  display: none;
 }
