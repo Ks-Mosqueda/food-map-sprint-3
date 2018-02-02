@@ -7,7 +7,20 @@ $(document).ready(function () {
     mostrarInicio.classList.remove("hide");
     mostrarInicio.classList.add("show");
   },3000);
+
+  $("#form-control").keyup(search);
+
+  var search = function(){
+    var $filter = $("#form-control").val().toLowerCase;
+
+    if 
+
+
+
+  }
 });
+
+
 
 
 
