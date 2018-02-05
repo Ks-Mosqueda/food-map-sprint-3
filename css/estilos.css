@@ -5,8 +5,8 @@ body {
 .fondo-negro {
 background-image: url(../assets/images/food.png);
 background-repeat: no-repeat;
-background-size: 180%;
-height: 150vh;
+background-size: 100%;
+height: 100vh;
 background-position: center;
 }
 
@@ -50,4 +50,8 @@ background-position: center;
 
 .hide {
   display: none;
+}
+
+#padre {
+  background: red;
 }

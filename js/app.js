@@ -1,4 +1,6 @@
+
 $(document).ready(function () {
+
   setTimeout(function () {
     var mostrar= document.getElementById("fondoNegro");
     var mostrarInicio = document.getElementById("inicio");
@@ -8,17 +10,12 @@ $(document).ready(function () {
     mostrarInicio.classList.add("show");
   },3000);
 
-  $("#form-control").keyup(search);
-
-  var search = function(){
-    var $filter = $("#form-control").val().toLowerCase;
-
-    if 
+  });
 
 
 
-  }
-});
+
+
 
 
 
