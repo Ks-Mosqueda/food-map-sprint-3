@@ -1,12 +1,12 @@
 var restaurante = [
- comida = {
+{
   "tipo": "china",
   "nombre":"Nuevo Jade",
   "imagen":"../assets/images/chinese-1.jpg",
   "dirección": "Av. Álvaro Obregón 264, Hipódromo Condesa, 06100 Ciudad de México, CDMX",
 },
 
-comida = {
+{
 "tipo": "vegana",
 "nombre":"La Pitahaya Vegana",
 "imagen":"../assets/images/comida-vegana.jpg",
