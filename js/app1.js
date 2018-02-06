@@ -9,7 +9,7 @@ function addEvent(e) {
   mostrarRestaurante(); /*Aqui solo llamo la funcion mostrarRestaurante le doy como atributo el nombre que tiene el objeto en mi data*/
 }
 
-function mostrarRestaurante() {  /*Aqui declaro la funcion mostrarRestaurante*/
+function mostrarRestaurante(restaurante) {  /*Aqui declaro la funcion mostrarRestaurante*/
 
   var $newRestaurant = $("<article />", {/*Creando elementos con DOM*/
     "class": "card-panel hoverable"
