@@ -1,4 +1,3 @@
-alert("hola mundote");
 
 function loadPage() {
   $(".form-control").keyup(filterRestaurante);
